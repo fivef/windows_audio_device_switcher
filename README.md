@@ -7,3 +7,4 @@ Usage:
 1. Open windows command line (Ctrl+R, cmd, Enter)
 2. Go to the path where EndPointController.exe is located.
 3. Execute EndPointController.exe without arguments for usage infromation and a list of all available devices.
+4. To switch to a specific device by name execute e.g.: EndPointController.exe "Logitech G930" (Use " if there are spaces in the name)
