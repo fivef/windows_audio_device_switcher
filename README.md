@@ -3,6 +3,7 @@ This program allows to switch the default audio device in windows via a console 
 This program was tested successfully under Windows 7, 8, 8.1 and 10.
 
 Usage: 
+
 1. Open windows command line (Ctrl+R, cmd, Enter)
 2. Go to the path where EndPointController.exe is located.
 3. Execute EndPointController.exe without arguments for usage infromation and a list of all available devices.
