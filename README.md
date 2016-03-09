@@ -2,6 +2,8 @@
 This program allows to switch the default audio device in windows via a console program. This can also easily be called via a windows shortcut or by programs like Logitech Gaming Software. The cool thing here is that the devices to switch to can be given by the name as displayed in the "Sounds" settings dialog.
 This program was tested successfully under Windows 7, 8, 8.1 and 10.
 
+Download: https://github.com/fivef/windows_audio_device_switcher/releases/download/v1.0/EndPointController.exe
+
 Usage: 
 
 1. Open windows command line (Ctrl+R, cmd, Enter)
